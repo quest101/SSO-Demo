@@ -14,6 +14,6 @@ spring:
     name: sso-client1
 sso:
   server:
-    url: http://peer3:9003
+    url: http://127.0.0.1:9003
   client:
     protect: /hello

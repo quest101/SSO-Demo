@@ -1,0 +1,7 @@
+/Users/xikangzheng/git/sso-demo/SSO-Demo/sso-client-common/src/main/java/com/sso/client/plugin/controller/SSOClientController.java
+/Users/xikangzheng/git/sso-demo/SSO-Demo/sso-client-common/src/main/java/com/sso/client/plugin/config/CommonConfiguration.java
+/Users/xikangzheng/git/sso-demo/SSO-Demo/sso-client-common/src/main/java/com/sso/client/plugin/filter/CommonAuthFilter.java
+/Users/xikangzheng/git/sso-demo/SSO-Demo/sso-client-common/src/main/java/com/sso/client/plugin/service/impl/UserAccessServiceImpl.java
+/Users/xikangzheng/git/sso-demo/SSO-Demo/sso-client-common/src/main/java/com/sso/client/plugin/service/UserAccessService.java
+/Users/xikangzheng/git/sso-demo/SSO-Demo/sso-client-common/src/main/java/com/sso/client/plugin/controller/TestController.java
+/Users/xikangzheng/git/sso-demo/SSO-Demo/sso-client-common/src/main/java/com/sso/client/plugin/filter/TestServlet.java
